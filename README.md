@@ -1,2 +1,2 @@
-# wallet-service
-Wallet microservice
+# pagopa-wallet-service
+PagoPA Wallet microservice
