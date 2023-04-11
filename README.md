@@ -1,2 +1,4 @@
 # pagopa-wallet-service
-PagoPA Wallet microservice
+## What is this?
+
+This is a PagoPA microservice that handles wallets' lifecycle and workflow.
